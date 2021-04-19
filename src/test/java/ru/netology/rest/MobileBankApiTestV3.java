@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.*;
 
  class MobileBankApiTestV3 {
     @Test
-    void needReturnDemoAccounts() {
+    void needReturnDemoAccounts3() {
         // Given - When - Then
         // Предусловия
         given()
